@@ -1,5 +1,4 @@
-// Copyright (C) 2023, Ava Labs, Inc. All rights reserved.
-// See the file LICENSE for licensing terms.
+
 
 package consts
 
@@ -13,11 +12,11 @@ import (
 
 const (
 	// TODO: choose a human-readable part for your hyperchain
-	HRP = ""
+	HRP = "Virat"
 	// TODO: choose a name for your hyperchain
-	Name = ""
+	Name = "vk"
 	// TODO: choose a token symbol
-	Symbol = ""
+	Symbol = "Rcb"
 )
 
 var ID ids.ID
